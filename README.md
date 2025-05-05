@@ -11,7 +11,7 @@ Saya adalah lulusan Teknik Komputer yang memiliki ketertarikan mendalam terhadap
 - 🔧 **CI/CD Tools** (Jenkins, GitHub Actions)
 - 📈 **Monitoring & Logging** (Prometheus, Grafana, Loki, ELK Stack)
 - 🧪 **Testing & Automation** (Postman)
-
+---
 #### My Technologies
 
 <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"/>
