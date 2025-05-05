@@ -3,7 +3,22 @@
 ![Header](./github-header-image.png)
 
 ---
+<h2 align="left">Play Games With Me</h2>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andimuhriffal/andimuhriffal/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andimuhriffal/andimuhriffal/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/andimuhriffal/andimuhriffal/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/andimuhriffal/andimuhriffal/output/snake.svg" alt="Snake animation" />
+
+###
+---
 #### 💻My Technologies
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
@@ -28,5 +43,5 @@
 
 ---
 #### 📉My Github Stats
-![Riffal GitHub stats](https://github-readme-stats.vercel.app/api?username=andimuhriffal)
+![Riffal's GitHub stats](https://github-readme-stats.vercel.app/api?username=andimuhriffal&show_icons=true&theme=radical)
 ---
