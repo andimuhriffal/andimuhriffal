@@ -3,7 +3,7 @@
 🎯 **DevOps Enthusiast | Problem Solver | Tech Explorer**
 
 ---
-
+![Header](./github-header-image.png)
 ## 🛠️ About Me
 
 Saya adalah lulusan Teknik Komputer yang memiliki ketertarikan mendalam terhadap dunia **DevOps** dan otomatisasi sistem. Saat ini saya sedang mengeksplorasi berbagai tools dan teknologi seperti:
@@ -41,7 +41,7 @@ Saya adalah lulusan Teknik Komputer yang memiliki ketertarikan mendalam terhadap
 - GitHub: [github.com/username](https://github.com/username) <!-- Ganti dengan username kamu -->
 - Email: riffal@example.com
 
-> *"Automate the boring stuff. Scale what matters."*
+> _"Automate the boring stuff. Scale what matters."_
 
 ---
 
