@@ -1,17 +1,6 @@
 
----
+
 ![Header](./github-header-image.png)
-
-## 🧑‍🏫About Me
-
-Saya adalah lulusan Teknik Komputer yang memiliki ketertarikan mendalam terhadap dunia **DevOps** dan otomatisasi sistem. Saat ini saya sedang mengeksplorasi berbagai tools dan teknologi seperti:
-
-- 🐧 **Linux** (Ubuntu Server, CLI Scripting)
-- 🐳 **Docker & Docker Compose**
-- ☸️ **Kubernetes** (Minikube, K8s YAML Deployment)
-- 🔧 **CI/CD Tools** (Jenkins, GitHub Actions)
-- 📈 **Monitoring & Logging** (Prometheus, Grafana, Loki, ELK Stack)
-- 🧪 **Testing & Automation** (Postman)
 
 ---
 
@@ -34,6 +23,10 @@ Saya adalah lulusan Teknik Komputer yang memiliki ketertarikan mendalam terhadap
   <img src="https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
 </div>
 
+---
+#### 📉My Github Stats
+![Riffal GitHub stats](https://github-readme-stats.vercel.app/api?username=andimuhriffal)
 ---
