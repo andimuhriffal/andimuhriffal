@@ -1,18 +1,48 @@
-## Hi there 👋
+# 👋 Hi there, I'm Riffal!
 
-<!--
-**andimuhriffal/andimuhriffal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **DevOps Enthusiast | Problem Solver | Tech Explorer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on ...
-- 🔭 I’m currently working on DevOPS
+## 🛠️ About Me
+
+Saya adalah lulusan Teknik Komputer yang memiliki ketertarikan mendalam terhadap dunia **DevOps** dan otomatisasi sistem. Saat ini saya sedang mengeksplorasi berbagai tools dan teknologi seperti:
+
+- 🐧 **Linux** (Ubuntu Server, CLI Scripting)
+- 🐳 **Docker & Docker Compose**
+- ☸️ **Kubernetes** (Minikube, K8s YAML Deployment)
+- 🔧 **CI/CD Tools** (Jenkins, GitHub Actions)
+- 📈 **Monitoring & Logging** (Prometheus, Grafana, Loki, ELK Stack)
+- 🧪 **Testing & Automation** (Postman, JMeter, Bash Script)
+
+---
+
+## 🔁 Current Activities
+
+- Membangun simulasi microservices menggunakan Spring Boot + Docker
+- Mengintegrasikan pipeline CI/CD dengan Jenkins di dalam VM lokal
+- Mengeksperimen dengan monitoring cluster menggunakan **Prometheus & Grafana**
+- Belajar mengelola log service melalui **ELK Stack** dan **Grafana Loki**
+
+---
+
+## 🚀 DevOps Goals
+
+- Mendalami cloud-native DevOps di AWS/GCP
+- Menerapkan GitOps dalam deployment
+- Memahami lebih dalam Infrastructure as Code (Terraform, Ansible)
+- Kontribusi dalam proyek open-source bertema DevOps dan automasi
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: [linkedin.com/in/riffal](https://linkedin.com/in/riffal)
+- GitHub: [github.com/username](https://github.com/username) <!-- Ganti dengan username kamu -->
+- Email: riffal@example.com
+
+> *"Automate the boring stuff. Scale what matters."*
+
+---
+
+🧡 Thanks for stopping by!
