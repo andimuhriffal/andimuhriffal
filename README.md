@@ -1,8 +1,3 @@
-# 👋 Hi there, I'm Riffal!
-
-🎯 **DevOps Enthusiast | Problem Solver | Tech Explorer**
-
----
 ![Header](./github-header-image.png)
 ## 🛠️ About Me
 
