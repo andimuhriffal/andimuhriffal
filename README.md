@@ -2,7 +2,7 @@
 ---
 ![Header](./github-header-image.png)
 
-## 🛠️ About Me
+## 🧑‍🏫About Me
 
 Saya adalah lulusan Teknik Komputer yang memiliki ketertarikan mendalam terhadap dunia **DevOps** dan otomatisasi sistem. Saat ini saya sedang mengeksplorasi berbagai tools dan teknologi seperti:
 
@@ -15,7 +15,7 @@ Saya adalah lulusan Teknik Komputer yang memiliki ketertarikan mendalam terhadap
 
 ---
 
-#### My Technologies
+#### 💻My Technologies
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"/>
@@ -33,6 +33,7 @@ Saya adalah lulusan Teknik Komputer yang memiliki ketertarikan mendalam terhadap
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
 </div>
 
 ---
